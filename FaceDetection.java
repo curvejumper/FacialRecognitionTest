@@ -95,7 +95,7 @@ public class FaceDetection{
     
     private int[] LBP(Mat img){
         int kernelSize = 2;
-        for(int i = 0; i < )
+        return null;
     }
 
 }
